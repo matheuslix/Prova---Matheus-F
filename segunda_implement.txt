@@ -8,3 +8,8 @@ void geradorEmails() // Funcao que Inicializa o gerador de emails
 {
     //Gerador criado
 }
+
+void endpointSenhas() //funcao que cria Endpoint para senhas
+{
+    //Endpoint criado
+}
