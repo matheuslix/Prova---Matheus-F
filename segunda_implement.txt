@@ -1,0 +1,6 @@
+void configuraEmail() //Funcao que configura sistema de email
+{
+    //Sistema de email configurado.
+
+}
+
