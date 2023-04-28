@@ -4,3 +4,7 @@ void configuraEmail() //Funcao que configura sistema de email
 
 }
 
+void geradorEmails() // Funcao que Inicializa o gerador de emails
+{
+    //Gerador criado
+}
