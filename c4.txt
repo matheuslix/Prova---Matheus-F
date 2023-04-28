@@ -1,0 +1,15 @@
+void configuraEmail() //Funcao que configura sistema de email
+{
+    //Sistema de email configurado.
+
+}
+
+void geradorEmails() // Funcao que Inicializa o gerador de emails
+{
+    //Gerador criado
+}
+
+void endpointSenhas() //funcao que cria Endpoint para senhas
+{
+    //Endpoint criado
+}
