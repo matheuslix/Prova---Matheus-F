@@ -2,3 +2,4 @@ Primeira Implementação
 Sistema de cadastro no servidor que envolve 3 etapas distintas:
 -Aprimoramento do script para o banco de dados;
 -Criação do endpoint de login;
+-Criação do endpoint de criação de usuário.
